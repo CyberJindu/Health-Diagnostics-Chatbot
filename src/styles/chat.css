@@ -139,6 +139,7 @@ body {
   caret-color: #111;  
 }
 
+
 .chat-input button {
   padding: 10px 16px;
   border: none;
@@ -156,4 +157,3 @@ body {
   color: #555;
   margin: 5px 0;
 }
-
